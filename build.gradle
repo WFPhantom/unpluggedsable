@@ -31,8 +31,8 @@ neoForge {
     version = project.neo_version
 
     parchment {
-        mappingsVersion = "1.21.1"
-        minecraftVersion = "2024.11.17"
+        mappingsVersion = "2024.11.17"
+        minecraftVersion = "1.21.1"
     }
 
     runs {
